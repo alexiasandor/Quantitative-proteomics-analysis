@@ -1,0 +1,207 @@
+{
+    "legacy": [
+        "merged_iterative_imputer_10",
+        "merged_knn_imputer_20",
+        "merged_knn_imputer_10",
+        "merged_minprob_imputer",
+        "merged_iterative_bayesianridge",
+        "merged_mice_linear",
+        "merged_min_fraction",
+        "merged_trimmed_mean",
+        "merged_groupwise_median"
+    ],
+    "Pearson": [
+        "merged_fillna_mean",
+        "merged_knn_imputer_10",
+        "merged_iterative_imputer_10",
+        "merged_iterative_bayesianridge",
+        "merged_knn_imputer_20",
+        "merged_groupwise_median_by_prefix",
+        "merged_replace_median"
+    ],
+    "Spearman": [
+        "merged_fillna_mean",
+        "merged_knn_imputer_10",
+        "merged_iterative_imputer_10",
+        "merged_iterative_bayesianridge",
+        "merged_knn_imputer_20",
+        "merged_groupwise_median_by_prefix",
+        "merged_replace_median"
+    ],
+    "Kendall": [
+        "merged_iterative_bayesianridge",
+        "merged_replace_median",
+        "merged_iterative_imputer_10",
+        "merged_groupwise_median_by_prefix",
+        "merged_knn_imputer_20",
+        "merged_knn_imputer_10",
+        "merged_fillna_mean"
+    ],
+    "Euclidean": [
+        "merged_iterative_bayesianridge",
+        "merged_replace_median",
+        "merged_iterative_imputer_10",
+        "merged_groupwise_median_by_prefix",
+        "merged_knn_imputer_20",
+        "merged_knn_imputer_10",
+        "merged_fillna_mean"
+    ],
+    "Manhattan": [
+        "merged_iterative_bayesianridge",
+        "merged_replace_median",
+        "merged_iterative_imputer_10",
+        "merged_groupwise_median_by_prefix",
+        "merged_knn_imputer_20",
+        "merged_knn_imputer_10",
+        "merged_fillna_mean"
+    ],
+    "Cosine": [
+        "merged_iterative_bayesianridge",
+        "merged_replace_median",
+        "merged_iterative_imputer_10",
+        "merged_groupwise_median_by_prefix",
+        "merged_mice_linear",
+        "merged_knn_imputer_20",
+        "merged_knn_imputer_10",
+        "merged_fillna_mean"
+    ],
+    "Canberra": [
+        "merged_iterative_bayesianridge",
+        "merged_replace_median",
+        "merged_iterative_imputer_10",
+        "merged_groupwise_median_by_prefix",
+        "merged_knn_imputer_20",
+        "merged_knn_imputer_10",
+        "merged_fillna_mean"
+    ],
+    "processed_1": {
+        "Pearson": [
+            "merged_fillna_mean",
+            "merged_knn_imputer_10",
+            "merged_iterative_imputer_10",
+            "merged_iterative_bayesianridge",
+            "merged_knn_imputer_20",
+            "merged_groupwise_median_by_prefix",
+            "merged_replace_median"
+        ],
+        "Spearman": [
+            "merged_fillna_mean",
+            "merged_knn_imputer_10",
+            "merged_iterative_imputer_10",
+            "merged_iterative_bayesianridge",
+            "merged_knn_imputer_20",
+            "merged_groupwise_median_by_prefix",
+            "merged_replace_median"
+        ],
+        "Kendall": [
+            "merged_iterative_bayesianridge",
+            "merged_replace_median",
+            "merged_iterative_imputer_10",
+            "merged_groupwise_median_by_prefix",
+            "merged_knn_imputer_20",
+            "merged_knn_imputer_10",
+            "merged_fillna_mean"
+        ],
+        "Euclidean": [
+            "merged_iterative_bayesianridge",
+            "merged_replace_median",
+            "merged_iterative_imputer_10",
+            "merged_groupwise_median_by_prefix",
+            "merged_knn_imputer_20",
+            "merged_knn_imputer_10",
+            "merged_fillna_mean"
+        ],
+        "Manhattan": [
+            "merged_iterative_bayesianridge",
+            "merged_replace_median",
+            "merged_iterative_imputer_10",
+            "merged_groupwise_median_by_prefix",
+            "merged_knn_imputer_20",
+            "merged_knn_imputer_10",
+            "merged_fillna_mean"
+        ],
+        "Cosine": [
+            "merged_iterative_bayesianridge",
+            "merged_replace_median",
+            "merged_iterative_imputer_10",
+            "merged_groupwise_median_by_prefix",
+            "merged_mice_linear",
+            "merged_knn_imputer_20",
+            "merged_knn_imputer_10",
+            "merged_fillna_mean"
+        ],
+        "Canberra": [
+            "merged_iterative_bayesianridge",
+            "merged_replace_median",
+            "merged_iterative_imputer_10",
+            "merged_groupwise_median_by_prefix",
+            "merged_knn_imputer_20",
+            "merged_knn_imputer_10",
+            "merged_fillna_mean"
+        ]
+    },
+    "processed_2": {
+        "Pearson": [
+            "merged_knn_imputer_20",
+            "merged_iterative_bayesianridge",
+            "merged_knn_imputer_10",
+            "merged_iterative_imputer_10",
+            "merged_mice_linear",
+            "merged_fillna_mean",
+            "merged_groupwise_median_by_prefix"
+        ],
+        "Spearman": [
+            "merged_knn_imputer_20",
+            "merged_iterative_bayesianridge",
+            "merged_replace_median",
+            "merged_knn_imputer_10",
+            "merged_iterative_imputer_10",
+            "merged_mice_linear",
+            "merged_fillna_mean",
+            "merged_groupwise_median_by_prefix"
+        ],
+        "Kendall": [
+            "merged_knn_imputer_20",
+            "merged_iterative_bayesianridge",
+            "merged_replace_median",
+            "merged_knn_imputer_10",
+            "merged_iterative_imputer_10",
+            "merged_mice_linear",
+            "merged_fillna_mean",
+            "merged_groupwise_median_by_prefix"
+        ],
+        "Euclidean": [
+            "merged_knn_imputer_20",
+            "merged_iterative_bayesianridge",
+            "merged_knn_imputer_10",
+            "merged_iterative_imputer_10",
+            "merged_mice_linear",
+            "merged_fillna_mean"
+        ],
+        "Manhattan": [
+            "merged_knn_imputer_20",
+            "merged_iterative_bayesianridge",
+            "merged_knn_imputer_10",
+            "merged_iterative_imputer_10",
+            "merged_mice_linear",
+            "merged_fillna_mean"
+        ],
+        "Cosine": [
+            "merged_knn_imputer_20",
+            "merged_iterative_bayesianridge",
+            "merged_knn_imputer_10",
+            "merged_iterative_imputer_10",
+            "merged_mice_linear",
+            "merged_fillna_mean",
+            "merged_groupwise_median_by_prefix"
+        ],
+        "Canberra": [
+            "merged_knn_imputer_20",
+            "merged_iterative_bayesianridge",
+            "merged_knn_imputer_10",
+            "merged_iterative_imputer_10",
+            "merged_mice_linear",
+            "merged_fillna_mean"
+        ]
+    }
+}
